@@ -126,7 +126,7 @@ export function Footer() {
           <div className="flex flex-col items-center gap-6 md:flex-row md:justify-between">
             {/* Copyright */}
             <p className="text-sm text-gray-400">
-              &copy; 2025 TravelHub. All rights reserved.
+              &copy; 2025 Voyager. All rights reserved.
             </p>
 
             {/* Payment Methods */}

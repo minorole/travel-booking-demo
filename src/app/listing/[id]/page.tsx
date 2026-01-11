@@ -44,7 +44,7 @@ export async function generateMetadata({ params }: ListingPageProps) {
   }
 
   return {
-    title: `${listing.title} - TravelHub`,
+    title: `${listing.title} - Voyager`,
     description: listing.description.slice(0, 160),
   };
 }

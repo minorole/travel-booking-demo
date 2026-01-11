@@ -16,22 +16,19 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "TravelHub - Book Your Next Adventure",
+  title: "Voyager - Book Your Next Adventure",
   description:
-    "Discover and book amazing stays, flights, car rentals, and attractions worldwide. Your journey starts here with TravelHub.",
+    "Discover and book amazing stays worldwide. Your journey starts here.",
   keywords: [
     "travel",
     "booking",
     "hotels",
-    "flights",
-    "car rentals",
-    "attractions",
     "vacation",
   ],
   openGraph: {
-    title: "TravelHub - Book Your Next Adventure",
+    title: "Voyager - Book Your Next Adventure",
     description:
-      "Discover and book amazing stays, flights, car rentals, and attractions worldwide.",
+      "Discover and book amazing stays worldwide.",
     type: "website",
   },
 };

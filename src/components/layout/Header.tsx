@@ -38,10 +38,7 @@ import { Separator } from "@/components/ui/separator";
 import { CartDrawer } from "@/components/cart/CartDrawer";
 
 const navItems = [
-  { label: "Stays", icon: Hotel, href: "#stays" },
-  { label: "Flights", icon: Plane, href: "#flights" },
-  { label: "Car Rentals", icon: Car, href: "#car-rentals" },
-  { label: "Attractions", icon: Ticket, href: "#attractions" },
+  { label: "Stays", icon: Hotel, href: "/search" },
   { label: "Shop", icon: ShoppingBag, href: "/shop" },
 ];
 
@@ -59,7 +56,7 @@ export function Header() {
           <div className="flex h-9 w-9 items-center justify-center rounded-lg bg-white/10">
             <Plane className="h-5 w-5 text-white" />
           </div>
-          <span className="text-xl font-bold text-white">TravelHub</span>
+          <span className="text-xl font-bold text-white">Voyager</span>
         </Link>
 
         {/* Desktop Navigation */}
@@ -138,14 +135,6 @@ export function Header() {
             </DropdownMenuContent>
           </DropdownMenu>
 
-          {/* CTA Button - Desktop */}
-          <Button
-            className="hidden bg-[#f97316] font-semibold text-white shadow-lg shadow-orange-500/25 transition-all hover:bg-[#ea580c] hover:shadow-orange-500/40 sm:flex"
-            size="sm"
-          >
-            List Your Property
-          </Button>
-
           {/* Mobile Menu Button */}
           <Sheet open={mobileMenuOpen} onOpenChange={setMobileMenuOpen}>
             <SheetTrigger asChild>
@@ -165,7 +154,7 @@ export function Header() {
                     <Plane className="h-4 w-4 text-white" />
                   </div>
                   <span className="text-lg font-bold text-[#1a56db]">
-                    TravelHub
+                    Voyager
                   </span>
                 </SheetTitle>
               </SheetHeader>
@@ -254,12 +243,6 @@ export function Header() {
                 </button>
               </div>
 
-              {/* Mobile CTA */}
-              <div className="mt-auto border-t p-4">
-                <Button className="w-full bg-[#f97316] font-semibold text-white hover:bg-[#ea580c]">
-                  List Your Property
-                </Button>
-              </div>
             </SheetContent>
           </Sheet>
         </div>
