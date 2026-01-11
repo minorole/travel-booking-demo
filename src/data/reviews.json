@@ -1,0 +1,362 @@
+[
+  {
+    "id": "rev-001",
+    "listingId": "list-001",
+    "userName": "Sarah Mitchell",
+    "userImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80",
+    "rating": 5,
+    "date": "2025-12-15",
+    "comment": "Absolutely magical! We celebrated our anniversary here and couldn't have chosen a better place. The infinity pool overlooking the ocean is even more stunning than the photos. Made helped us arrange a private dinner on the terrace, and it was the highlight of our trip to Bali.",
+    "helpful": 47
+  },
+  {
+    "id": "rev-002",
+    "listingId": "list-001",
+    "userName": "David Chen",
+    "userImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80",
+    "rating": 5,
+    "date": "2025-11-28",
+    "comment": "The villa exceeded every expectation. Staff was incredibly attentive without being intrusive. The private chef made the most incredible Indonesian breakfast every morning. Only 'complaint' is that we didn't want to leave to explore - the villa itself was too perfect.",
+    "helpful": 32
+  },
+  {
+    "id": "rev-003",
+    "listingId": "list-001",
+    "userName": "Emma Thompson",
+    "userImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&q=80",
+    "rating": 4,
+    "date": "2025-10-22",
+    "comment": "Beautiful property with incredible views. The pool area is perfect for relaxing. The only reason for 4 stars instead of 5 is that it's quite a walk from the main road, though the peaceful location is also part of its charm.",
+    "helpful": 23
+  },
+  {
+    "id": "rev-004",
+    "listingId": "list-002",
+    "userName": "Jennifer Park",
+    "userImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&q=80",
+    "rating": 5,
+    "date": "2025-12-05",
+    "comment": "The sunset views from the cave suite are absolutely breathtaking! Elena was an incredible host who made us feel so welcome. The hot tub with the caldera view was the highlight of our honeymoon.",
+    "helpful": 41
+  },
+  {
+    "id": "rev-005",
+    "listingId": "list-002",
+    "userName": "Robert Williams",
+    "userImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&q=80",
+    "rating": 5,
+    "date": "2025-11-20",
+    "comment": "Worth every penny. The cave architecture is unique and the views are exactly like the pictures. The champagne breakfast was a lovely touch. Would definitely return!",
+    "helpful": 35
+  },
+  {
+    "id": "rev-006",
+    "listingId": "list-002",
+    "userName": "Lisa Anderson",
+    "userImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&q=80",
+    "rating": 4,
+    "date": "2025-10-08",
+    "comment": "Stunning property with amazing caldera views. Everything was perfect except for the steep walk to reach the suite. But that's Santorini! The views more than make up for it.",
+    "helpful": 19
+  },
+  {
+    "id": "rev-007",
+    "listingId": "list-003",
+    "userName": "Thomas Schmidt",
+    "userImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&q=80",
+    "rating": 5,
+    "date": "2025-11-25",
+    "comment": "Staying in this 100-year-old machiya was a dream come true. The tatami rooms, the zen garden, everything felt so authentic. Yuki left us wonderful recommendations for local restaurants and temples.",
+    "helpful": 34
+  },
+  {
+    "id": "rev-008",
+    "listingId": "list-003",
+    "userName": "Anna Kowalski",
+    "userImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&q=80",
+    "rating": 5,
+    "date": "2025-10-15",
+    "comment": "The most authentic Kyoto experience you can have! Walking distance to Gion and the temples. The hinoki wood bath was heavenly after a day of exploring. Highly recommend!",
+    "helpful": 22
+  },
+  {
+    "id": "rev-009",
+    "listingId": "list-003",
+    "userName": "Sophie Laurent",
+    "userImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&q=80",
+    "rating": 4,
+    "date": "2025-09-30",
+    "comment": "Beautiful traditional home with so much character. The zen garden was perfect for morning meditation. Only giving 4 stars because it can get cold in autumn - bring warm clothes!",
+    "helpful": 28
+  },
+  {
+    "id": "rev-010",
+    "listingId": "list-004",
+    "userName": "James O'Brien",
+    "userImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80",
+    "rating": 5,
+    "date": "2025-12-10",
+    "comment": "The glass floor panels are incredible - we saw reef sharks, rays, and so many colorful fish! The butler service was impeccable. This is the ultimate bucket list experience.",
+    "helpful": 52
+  },
+  {
+    "id": "rev-011",
+    "listingId": "list-004",
+    "userName": "Rachel Green",
+    "userImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80",
+    "rating": 5,
+    "date": "2025-11-18",
+    "comment": "Honeymoon perfection! Waking up over the crystal clear water, dolphins visiting in the morning, sunset dinners on our private deck. Worth every penny for a once-in-a-lifetime experience.",
+    "helpful": 38
+  },
+  {
+    "id": "rev-012",
+    "listingId": "list-004",
+    "userName": "Marco Bianchi",
+    "userImage": "https://images.unsplash.com/photo-1463453091185-61582044d556?w=100&q=80",
+    "rating": 5,
+    "date": "2025-10-25",
+    "comment": "Pure paradise! The snorkeling right from our bungalow was amazing. Staff anticipated our every need. The all-inclusive package is the way to go - nothing to worry about.",
+    "helpful": 27
+  },
+  {
+    "id": "rev-013",
+    "listingId": "list-005",
+    "userName": "Claire Dubois",
+    "userImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&q=80",
+    "rating": 5,
+    "date": "2025-12-28",
+    "comment": "The view of Sagrada Familia from the rooftop terrace is unreal - especially at night when it's lit up! Carlos and Maria were wonderful hosts with great local tips.",
+    "helpful": 45
+  },
+  {
+    "id": "rev-014",
+    "listingId": "list-005",
+    "userName": "Nathan Cooper",
+    "userImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&q=80",
+    "rating": 4,
+    "date": "2025-08-15",
+    "comment": "Great location and beautiful penthouse. The AC worked perfectly which was essential in August. Would have been 5 stars but the neighborhood can be a bit noisy on weekend nights.",
+    "helpful": 21
+  },
+  {
+    "id": "rev-015",
+    "listingId": "list-006",
+    "userName": "Victoria Hayes",
+    "userImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&q=80",
+    "rating": 5,
+    "date": "2025-11-12",
+    "comment": "The most magical riad! From the moment we stepped through the hidden entrance into the beautiful courtyard, we were transported. The rooftop views of the Atlas Mountains were breathtaking.",
+    "helpful": 56
+  },
+  {
+    "id": "rev-016",
+    "listingId": "list-006",
+    "userName": "Kevin Yamamoto",
+    "userImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80",
+    "rating": 5,
+    "date": "2025-10-05",
+    "comment": "The hammam experience was incredible! Fatima arranged a cooking class that was one of the highlights of our Morocco trip. The zellige tilework throughout is stunning.",
+    "helpful": 43
+  },
+  {
+    "id": "rev-017",
+    "listingId": "list-006",
+    "userName": "Isabel Martinez",
+    "userImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&q=80",
+    "rating": 4,
+    "date": "2025-09-20",
+    "comment": "Beautiful historic property in the heart of the medina. The breakfast on the rooftop was wonderful. Can be tricky to find at first but the staff will guide you.",
+    "helpful": 31
+  },
+  {
+    "id": "rev-018",
+    "listingId": "list-007",
+    "userName": "Amanda Brooks",
+    "userImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80",
+    "rating": 5,
+    "date": "2025-12-01",
+    "comment": "The views of The Remarkables from the hot tub are incredible! Perfect base for skiing. James and Sophie made sure we had everything we needed for a perfect New Zealand adventure.",
+    "helpful": 48
+  },
+  {
+    "id": "rev-019",
+    "listingId": "list-007",
+    "userName": "Christopher Evans",
+    "userImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&q=80",
+    "rating": 4,
+    "date": "2025-10-28",
+    "comment": "Stunning lodge with amazing mountain views. The fireplace and hot tub were perfect after hiking. Only reason for 4 stars is it's a bit of a drive from central Queenstown.",
+    "helpful": 36
+  },
+  {
+    "id": "rev-020",
+    "listingId": "list-008",
+    "userName": "Michelle Roberts",
+    "userImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&q=80",
+    "rating": 5,
+    "date": "2025-09-15",
+    "comment": "Living the Amalfi dream! The villa cascading down the cliff is even more beautiful than photos. Giovanni's local connections got us into restaurants that were 'fully booked.'",
+    "helpful": 61
+  },
+  {
+    "id": "rev-021",
+    "listingId": "list-008",
+    "userName": "William Taylor",
+    "userImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&q=80",
+    "rating": 5,
+    "date": "2025-08-22",
+    "comment": "The most beautiful place I've ever stayed. Yes, Positano has stairs (this is the Amalfi Coast!) but the private pool and those views make it all worth it. Perfection!",
+    "helpful": 44
+  },
+  {
+    "id": "rev-022",
+    "listingId": "list-008",
+    "userName": "Elena Costa",
+    "userImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&q=80",
+    "rating": 5,
+    "date": "2025-07-10",
+    "comment": "My grandmother is from Positano, so I had high expectations - this villa exceeded them all. The private beach access was amazing. Already planning our return trip!",
+    "helpful": 29
+  },
+  {
+    "id": "rev-023",
+    "listingId": "list-009",
+    "userName": "Daniel Kim",
+    "userImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80",
+    "rating": 5,
+    "date": "2025-12-20",
+    "comment": "Such a unique experience! The bamboo treehouse is as magical as it looks. Morning yoga overlooking the rice terraces was spiritual. Monkeys visit in the morning!",
+    "helpful": 39
+  },
+  {
+    "id": "rev-024",
+    "listingId": "list-009",
+    "userName": "Olivia Martin",
+    "userImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=100&q=80",
+    "rating": 4,
+    "date": "2025-11-05",
+    "comment": "The treehouse is incredible and the views are stunning. It's fairly basic (no AC, just fans) but that's part of the back-to-nature appeal. Wayan is a wonderful host.",
+    "helpful": 25
+  },
+  {
+    "id": "rev-025",
+    "listingId": "list-010",
+    "userName": "Ryan Anderson",
+    "userImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&q=80",
+    "rating": 5,
+    "date": "2025-09-18",
+    "comment": "The infinity pool with caldera views is spectacular! Great location in Fira - walkable to everything. The complimentary wine tasting was a lovely touch.",
+    "helpful": 33
+  },
+  {
+    "id": "rev-026",
+    "listingId": "list-010",
+    "userName": "Patricia Collins",
+    "userImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80",
+    "rating": 4,
+    "date": "2025-10-12",
+    "comment": "Beautiful suite with amazing views. Staff remembered our names and preferences throughout the stay. Would have loved a private hot tub but the pool more than made up for it.",
+    "helpful": 37
+  },
+  {
+    "id": "rev-027",
+    "listingId": "list-011",
+    "userName": "Andrew Thompson",
+    "userImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&q=80",
+    "rating": 5,
+    "date": "2025-08-28",
+    "comment": "The kaiseki dinner was an art form - 14 courses of seasonal perfection. The private onsen with views of the bamboo grove was transcendent. Worth the splurge!",
+    "helpful": 20
+  },
+  {
+    "id": "rev-028",
+    "listingId": "list-011",
+    "userName": "Katherine Mueller",
+    "userImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&q=80",
+    "rating": 5,
+    "date": "2025-12-22",
+    "comment": "This ryokan redefined hospitality for me. The tea ceremony was beautiful, the food was incredible, and the bamboo grove right outside was magical. A must for Kyoto!",
+    "helpful": 54
+  },
+  {
+    "id": "rev-029",
+    "listingId": "list-012",
+    "userName": "Eric Johnson",
+    "userImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80",
+    "rating": 5,
+    "date": "2025-01-15",
+    "comment": "Loved the bohemian vibe of this artist loft. The exposed brick and high ceilings give it so much character. Location in the Gothic Quarter is unbeatable!",
+    "helpful": 42
+  },
+  {
+    "id": "rev-030",
+    "listingId": "list-012",
+    "userName": "Nicole Davis",
+    "userImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&q=80",
+    "rating": 4,
+    "date": "2025-02-08",
+    "comment": "Great location and full of character. A bit noisy in summer with windows open (no AC), but fans kept us comfortable enough. Lucia was super helpful with recommendations.",
+    "helpful": 26
+  },
+  {
+    "id": "rev-031",
+    "listingId": "list-013",
+    "userName": "Benjamin Wright",
+    "userImage": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&q=80",
+    "rating": 5,
+    "date": "2025-09-05",
+    "comment": "We chose the beach bungalow over overwater and loved it! The private garden was perfect, and we could walk right into the ocean. The whale shark trip was incredible!",
+    "helpful": 24
+  },
+  {
+    "id": "rev-032",
+    "listingId": "list-013",
+    "userName": "Samantha Lee",
+    "userImage": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=100&q=80",
+    "rating": 4,
+    "date": "2025-07-20",
+    "comment": "Beautiful beach bungalow with amazing access to diving. The outdoor rain shower felt like a spa! Slightly less wow factor than overwater but much better value.",
+    "helpful": 18
+  },
+  {
+    "id": "rev-033",
+    "listingId": "list-014",
+    "userName": "George Wilson",
+    "userImage": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&q=80",
+    "rating": 5,
+    "date": "2025-10-30",
+    "comment": "The palm grove setting is so peaceful - a perfect escape from the busy medina. The Atlas Mountain views from the pool are stunning, especially at sunset.",
+    "helpful": 35
+  },
+  {
+    "id": "rev-034",
+    "listingId": "list-014",
+    "userName": "Hannah Brown",
+    "userImage": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&q=80",
+    "rating": 4,
+    "date": "2025-08-12",
+    "comment": "Beautiful resort with great amenities. The hammam was wonderful. You do need a taxi to get to the medina but the tranquility makes it worthwhile.",
+    "helpful": 22
+  },
+  {
+    "id": "rev-035",
+    "listingId": "list-015",
+    "userName": "Charles Adams",
+    "userImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&q=80",
+    "rating": 5,
+    "date": "2025-06-25",
+    "comment": "Ravello is a hidden gem and this villa captures everything special about it. The terraced gardens with lemon trees, the peace and quiet above the tourist crowds. We attended a concert at Villa Rufolo - unforgettable!",
+    "helpful": 41
+  },
+  {
+    "id": "rev-036",
+    "listingId": "list-015",
+    "userName": "Diana Moore",
+    "userImage": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=100&q=80",
+    "rating": 5,
+    "date": "2025-09-08",
+    "comment": "The most peaceful place on the Amalfi Coast. Francesca is a wonderful host who knows everyone in town. The private lemon grove and those coast views - pure magic!",
+    "helpful": 38
+  }
+]

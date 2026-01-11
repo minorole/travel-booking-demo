@@ -1,0 +1,66 @@
+[
+  {
+    "id": "dest-001",
+    "name": "Bali",
+    "country": "Indonesia",
+    "image": "https://picsum.photos/seed/bali-temples/800/600",
+    "description": "Discover the Island of Gods with its ancient temples, lush rice terraces, and world-class beaches. From spiritual retreats in Ubud to surf breaks in Canggu, Bali offers an unforgettable blend of culture and relaxation.",
+    "listingCount": 342
+  },
+  {
+    "id": "dest-002",
+    "name": "Santorini",
+    "country": "Greece",
+    "image": "https://picsum.photos/seed/santorini-sunset/800/600",
+    "description": "Iconic whitewashed buildings cascading down volcanic cliffs, breathtaking sunsets over the Aegean Sea, and some of the finest wines in the Mediterranean. Santorini is romance personified.",
+    "listingCount": 156
+  },
+  {
+    "id": "dest-003",
+    "name": "Kyoto",
+    "country": "Japan",
+    "image": "https://picsum.photos/seed/kyoto-bamboo/800/600",
+    "description": "Step into ancient Japan with over 2,000 temples and shrines, traditional tea houses, and serene zen gardens. Experience geisha culture in Gion and find tranquility in bamboo groves.",
+    "listingCount": 203
+  },
+  {
+    "id": "dest-004",
+    "name": "Maldives",
+    "country": "Maldives",
+    "image": "https://picsum.photos/seed/maldives-overwater/800/600",
+    "description": "Paradise found in 1,200 coral islands scattered across the Indian Ocean. Crystal-clear turquoise waters, pristine white beaches, and iconic overwater villas await.",
+    "listingCount": 89
+  },
+  {
+    "id": "dest-005",
+    "name": "Barcelona",
+    "country": "Spain",
+    "image": "https://picsum.photos/seed/barcelona-gaudi/800/600",
+    "description": "Gaudi's architectural masterpieces meet Mediterranean beaches. Explore Gothic quarters, savor world-renowned cuisine, and experience the vibrant Catalan culture that never sleeps.",
+    "listingCount": 478
+  },
+  {
+    "id": "dest-006",
+    "name": "Marrakech",
+    "country": "Morocco",
+    "image": "https://picsum.photos/seed/marrakech-medina/800/600",
+    "description": "Lose yourself in the labyrinthine souks of the ancient medina, find peace in hidden riads, and let the call to prayer set the rhythm of your days in this sensory wonderland.",
+    "listingCount": 167
+  },
+  {
+    "id": "dest-007",
+    "name": "Queenstown",
+    "country": "New Zealand",
+    "image": "https://picsum.photos/seed/queenstown-mountains/800/600",
+    "description": "The adventure capital of the world set against dramatic alpine scenery. Bungee jumping, skiing, hiking, and wine tasting - all within reach of a charming lakeside town.",
+    "listingCount": 124
+  },
+  {
+    "id": "dest-008",
+    "name": "Amalfi Coast",
+    "country": "Italy",
+    "image": "https://picsum.photos/seed/amalfi-coast/800/600",
+    "description": "Pastel-colored villages cling to dramatic cliffs above the sparkling Mediterranean. Winding coastal roads, limoncello, fresh seafood, and la dolce vita at its finest.",
+    "listingCount": 198
+  }
+]

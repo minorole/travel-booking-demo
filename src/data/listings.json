@@ -1,0 +1,452 @@
+[
+  {
+    "id": "list-001",
+    "title": "Oceanfront Villa with Infinity Pool",
+    "location": "Uluwatu, Bali",
+    "destinationId": "dest-001",
+    "image": "https://picsum.photos/seed/bali-villa-pool/800/600",
+    "images": [
+      "https://picsum.photos/seed/bali-villa-pool/800/600",
+      "https://picsum.photos/seed/bali-villa-bedroom/800/600",
+      "https://picsum.photos/seed/bali-villa-bathroom/800/600",
+      "https://picsum.photos/seed/bali-villa-terrace/800/600",
+      "https://picsum.photos/seed/bali-villa-sunset/800/600"
+    ],
+    "price": 385,
+    "originalPrice": 450,
+    "rating": 4.9,
+    "reviews": 247,
+    "amenities": ["Pool", "Ocean View", "WiFi", "Kitchen", "Air Conditioning", "Free Parking", "Breakfast Included"],
+    "description": "Wake up to panoramic ocean views in this stunning 3-bedroom villa perched on Uluwatu's clifftops. Featuring a private infinity pool that seems to merge with the horizon, this architectural masterpiece combines traditional Balinese craftsmanship with modern luxury.",
+    "highlights": ["Private infinity pool", "Daily housekeeping", "Personal chef available", "Sunset views over the Indian Ocean"],
+    "host": {
+      "name": "Made Wijaya",
+      "image": "https://picsum.photos/seed/host-made/200/200",
+      "since": "2019",
+      "responseRate": "98%"
+    },
+    "type": "villa",
+    "featured": true,
+    "viewers": 12
+  },
+  {
+    "id": "list-002",
+    "title": "Cave Suite with Caldera Views",
+    "location": "Oia, Santorini",
+    "destinationId": "dest-002",
+    "image": "https://picsum.photos/seed/santorini-cave/800/600",
+    "images": [
+      "https://picsum.photos/seed/santorini-cave/800/600",
+      "https://picsum.photos/seed/santorini-terrace/800/600",
+      "https://picsum.photos/seed/santorini-bedroom/800/600",
+      "https://picsum.photos/seed/santorini-bath/800/600",
+      "https://picsum.photos/seed/santorini-view/800/600"
+    ],
+    "price": 520,
+    "originalPrice": 620,
+    "rating": 4.8,
+    "reviews": 189,
+    "amenities": ["Hot Tub", "Caldera View", "WiFi", "Air Conditioning", "Room Service", "Breakfast Included"],
+    "description": "Experience authentic Santorini living in this cave-carved luxury suite. Originally a 19th-century wine cellar, this unique accommodation offers the most photographed sunset views on the island from your private terrace.",
+    "highlights": ["Private outdoor hot tub", "Famous Oia sunset views", "Champagne breakfast", "Carved into volcanic rock"],
+    "host": {
+      "name": "Elena Papadopoulos",
+      "image": "https://picsum.photos/seed/host-elena/200/200",
+      "since": "2017",
+      "responseRate": "100%"
+    },
+    "type": "hotel",
+    "featured": true,
+    "viewers": 8
+  },
+  {
+    "id": "list-003",
+    "title": "Traditional Machiya Townhouse",
+    "location": "Gion District, Kyoto",
+    "destinationId": "dest-003",
+    "image": "https://picsum.photos/seed/kyoto-machiya/800/600",
+    "images": [
+      "https://picsum.photos/seed/kyoto-machiya/800/600",
+      "https://picsum.photos/seed/kyoto-garden/800/600",
+      "https://picsum.photos/seed/kyoto-tatami/800/600",
+      "https://picsum.photos/seed/kyoto-bath/800/600",
+      "https://picsum.photos/seed/kyoto-entrance/800/600"
+    ],
+    "price": 275,
+    "originalPrice": 310,
+    "rating": 4.9,
+    "reviews": 156,
+    "amenities": ["Traditional Garden", "WiFi", "Heating", "Kitchen", "Washer", "Bicycle Rental"],
+    "description": "Step back in time in this beautifully restored 100-year-old machiya wooden townhouse. Located steps from Gion's famous geisha district, featuring tatami rooms, a private zen garden, and a deep soaking tub.",
+    "highlights": ["100-year-old restored townhouse", "Private zen garden", "Traditional hinoki wood bath", "Walking distance to temples"],
+    "host": {
+      "name": "Yuki Tanaka",
+      "image": "https://picsum.photos/seed/host-yuki/200/200",
+      "since": "2018",
+      "responseRate": "99%"
+    },
+    "type": "villa",
+    "featured": true,
+    "viewers": 6
+  },
+  {
+    "id": "list-004",
+    "title": "Overwater Bungalow with Glass Floor",
+    "location": "North Male Atoll, Maldives",
+    "destinationId": "dest-004",
+    "image": "https://picsum.photos/seed/maldives-bungalow/800/600",
+    "images": [
+      "https://picsum.photos/seed/maldives-bungalow/800/600",
+      "https://picsum.photos/seed/maldives-interior/800/600",
+      "https://picsum.photos/seed/maldives-deck/800/600",
+      "https://picsum.photos/seed/maldives-bathroom/800/600",
+      "https://picsum.photos/seed/maldives-reef/800/600"
+    ],
+    "price": 1250,
+    "originalPrice": 1450,
+    "rating": 4.9,
+    "reviews": 92,
+    "amenities": ["Ocean Access", "Glass Floor", "WiFi", "Butler Service", "Spa", "All Inclusive", "Snorkeling Gear"],
+    "description": "The ultimate tropical escape: your private overwater sanctuary with direct lagoon access and a glass floor panel to watch marine life below. Wake to dolphins, dine under the stars, and fall asleep to gentle waves.",
+    "highlights": ["Glass floor panels", "Direct ocean access", "24-hour butler service", "Private sundeck with daybed"],
+    "host": {
+      "name": "Sunset Paradise Resort",
+      "image": "https://picsum.photos/seed/host-resort/200/200",
+      "since": "2015",
+      "responseRate": "100%"
+    },
+    "type": "hotel",
+    "featured": true,
+    "viewers": 15
+  },
+  {
+    "id": "list-005",
+    "title": "Penthouse with Sagrada Familia Views",
+    "location": "Eixample, Barcelona",
+    "destinationId": "dest-005",
+    "image": "https://picsum.photos/seed/barcelona-penthouse/800/600",
+    "images": [
+      "https://picsum.photos/seed/barcelona-penthouse/800/600",
+      "https://picsum.photos/seed/barcelona-living/800/600",
+      "https://picsum.photos/seed/barcelona-bedroom/800/600",
+      "https://picsum.photos/seed/barcelona-terrace/800/600",
+      "https://picsum.photos/seed/barcelona-kitchen/800/600"
+    ],
+    "price": 195,
+    "originalPrice": 245,
+    "rating": 4.7,
+    "reviews": 312,
+    "amenities": ["Rooftop Terrace", "WiFi", "Air Conditioning", "Kitchen", "Washer", "Gym Access"],
+    "description": "Modern luxury meets Catalan charm in this stunning penthouse with unobstructed views of Gaudi's masterpiece. The private rooftop terrace is perfect for morning coffee or evening cava as the Sagrada Familia glows at sunset.",
+    "highlights": ["Direct Sagrada Familia views", "Private rooftop terrace", "Designer interiors", "Walking distance to top attractions"],
+    "host": {
+      "name": "Carlos & Maria",
+      "image": "https://picsum.photos/seed/host-carlos/200/200",
+      "since": "2016",
+      "responseRate": "95%"
+    },
+    "type": "apartment",
+    "featured": false,
+    "viewers": 9
+  },
+  {
+    "id": "list-006",
+    "title": "Luxury Riad in the Medina",
+    "location": "Medina, Marrakech",
+    "destinationId": "dest-006",
+    "image": "https://picsum.photos/seed/marrakech-riad/800/600",
+    "images": [
+      "https://picsum.photos/seed/marrakech-riad/800/600",
+      "https://picsum.photos/seed/marrakech-courtyard/800/600",
+      "https://picsum.photos/seed/marrakech-room/800/600",
+      "https://picsum.photos/seed/marrakech-rooftop/800/600",
+      "https://picsum.photos/seed/marrakech-pool/800/600"
+    ],
+    "price": 165,
+    "originalPrice": 210,
+    "rating": 4.8,
+    "reviews": 278,
+    "amenities": ["Pool", "Rooftop Terrace", "WiFi", "Breakfast Included", "Air Conditioning", "Hammam"],
+    "description": "An oasis of calm behind ancient medina walls. This restored 18th-century riad features intricate zellige tilework, a central courtyard with plunge pool, and a rooftop terrace overlooking the Atlas Mountains.",
+    "highlights": ["18th-century restored riad", "Traditional hammam spa", "Rooftop dining", "Cooking classes available"],
+    "host": {
+      "name": "Fatima Benali",
+      "image": "https://picsum.photos/seed/host-fatima/200/200",
+      "since": "2014",
+      "responseRate": "97%"
+    },
+    "type": "hotel",
+    "featured": true,
+    "viewers": 7
+  },
+  {
+    "id": "list-007",
+    "title": "Lakeside Lodge with Mountain Views",
+    "location": "Frankton, Queenstown",
+    "destinationId": "dest-007",
+    "image": "https://picsum.photos/seed/queenstown-lodge/800/600",
+    "images": [
+      "https://picsum.photos/seed/queenstown-lodge/800/600",
+      "https://picsum.photos/seed/queenstown-living/800/600",
+      "https://picsum.photos/seed/queenstown-bedroom/800/600",
+      "https://picsum.photos/seed/queenstown-deck/800/600",
+      "https://picsum.photos/seed/queenstown-view/800/600"
+    ],
+    "price": 340,
+    "originalPrice": 395,
+    "rating": 4.8,
+    "reviews": 167,
+    "amenities": ["Lake View", "Hot Tub", "WiFi", "Kitchen", "Fireplace", "Free Parking", "Ski Storage"],
+    "description": "Perched above Lake Wakatipu with The Remarkables as your backdrop, this contemporary alpine lodge offers the perfect base for adventure. Return from skiing or hiking to sink into your private hot tub under the stars.",
+    "highlights": ["Panoramic Remarkables views", "Private outdoor hot tub", "Wood-burning fireplace", "5 minutes to ski fields"],
+    "host": {
+      "name": "James & Sophie",
+      "image": "https://picsum.photos/seed/host-james/200/200",
+      "since": "2020",
+      "responseRate": "96%"
+    },
+    "type": "villa",
+    "featured": false,
+    "viewers": 5
+  },
+  {
+    "id": "list-008",
+    "title": "Cliffside Villa in Positano",
+    "location": "Positano, Amalfi Coast",
+    "destinationId": "dest-008",
+    "image": "https://picsum.photos/seed/amalfi-villa/800/600",
+    "images": [
+      "https://picsum.photos/seed/amalfi-villa/800/600",
+      "https://picsum.photos/seed/amalfi-terrace/800/600",
+      "https://picsum.photos/seed/amalfi-bedroom/800/600",
+      "https://picsum.photos/seed/amalfi-kitchen/800/600",
+      "https://picsum.photos/seed/amalfi-sunset/800/600"
+    ],
+    "price": 425,
+    "originalPrice": 520,
+    "rating": 4.9,
+    "reviews": 134,
+    "amenities": ["Sea View", "Pool", "WiFi", "Kitchen", "Air Conditioning", "Breakfast Included"],
+    "description": "Live like Italian royalty in this 19th-century villa cascading down Positano's famous cliffs. Multiple terraces offer endless Mediterranean views, while the private pool provides respite from the Amalfi sun.",
+    "highlights": ["180-degree sea views", "Private infinity pool", "Historic 19th-century villa", "Private beach access"],
+    "host": {
+      "name": "Giovanni Esposito",
+      "image": "https://picsum.photos/seed/host-giovanni/200/200",
+      "since": "2013",
+      "responseRate": "94%"
+    },
+    "type": "villa",
+    "featured": true,
+    "viewers": 11
+  },
+  {
+    "id": "list-009",
+    "title": "Jungle Treehouse Retreat",
+    "location": "Ubud, Bali",
+    "destinationId": "dest-001",
+    "image": "https://picsum.photos/seed/bali-treehouse/800/600",
+    "images": [
+      "https://picsum.photos/seed/bali-treehouse/800/600",
+      "https://picsum.photos/seed/bali-jungle/800/600",
+      "https://picsum.photos/seed/bali-treehouse-bed/800/600",
+      "https://picsum.photos/seed/bali-outdoor-bath/800/600",
+      "https://picsum.photos/seed/bali-rice-terrace/800/600"
+    ],
+    "price": 145,
+    "originalPrice": 175,
+    "rating": 4.7,
+    "reviews": 203,
+    "amenities": ["Jungle View", "WiFi", "Breakfast Included", "Yoga Deck", "Outdoor Shower", "Pool Access"],
+    "description": "Reconnect with nature in this magical bamboo treehouse suspended above the jungle canopy. Wake to birdsong, practice yoga overlooking rice terraces, and experience Bali's spiritual heart.",
+    "highlights": ["Bamboo eco-construction", "Private yoga deck", "Overlooking rice terraces", "Morning meditation sessions"],
+    "host": {
+      "name": "Wayan Surya",
+      "image": "https://picsum.photos/seed/host-wayan/200/200",
+      "since": "2018",
+      "responseRate": "92%"
+    },
+    "type": "villa",
+    "featured": false,
+    "viewers": 4
+  },
+  {
+    "id": "list-010",
+    "title": "Boutique Hotel Suite in Fira",
+    "location": "Fira, Santorini",
+    "destinationId": "dest-002",
+    "image": "https://picsum.photos/seed/santorini-suite/800/600",
+    "images": [
+      "https://picsum.photos/seed/santorini-suite/800/600",
+      "https://picsum.photos/seed/santorini-suite-bed/800/600",
+      "https://picsum.photos/seed/santorini-suite-bath/800/600",
+      "https://picsum.photos/seed/santorini-suite-terrace/800/600",
+      "https://picsum.photos/seed/santorini-pool/800/600"
+    ],
+    "price": 295,
+    "originalPrice": 350,
+    "rating": 4.6,
+    "reviews": 245,
+    "amenities": ["Pool", "Caldera View", "WiFi", "Spa", "Room Service", "Breakfast Included", "Airport Transfer"],
+    "description": "Minimalist Cycladic elegance meets modern luxury in this boutique hotel suite. Located in vibrant Fira, you're steps from galleries, restaurants, and the cable car to the old port.",
+    "highlights": ["Award-winning infinity pool", "Central Fira location", "Complimentary wine tasting", "Sunset cocktail service"],
+    "host": {
+      "name": "Aether Suites",
+      "image": "https://picsum.photos/seed/host-aether/200/200",
+      "since": "2019",
+      "responseRate": "99%"
+    },
+    "type": "hotel",
+    "featured": false,
+    "viewers": 6
+  },
+  {
+    "id": "list-011",
+    "title": "Modern Ryokan Experience",
+    "location": "Arashiyama, Kyoto",
+    "destinationId": "dest-003",
+    "image": "https://picsum.photos/seed/kyoto-ryokan/800/600",
+    "images": [
+      "https://picsum.photos/seed/kyoto-ryokan/800/600",
+      "https://picsum.photos/seed/kyoto-onsen/800/600",
+      "https://picsum.photos/seed/kyoto-kaiseki/800/600",
+      "https://picsum.photos/seed/kyoto-ryokan-room/800/600",
+      "https://picsum.photos/seed/kyoto-river/800/600"
+    ],
+    "price": 420,
+    "originalPrice": 480,
+    "rating": 4.9,
+    "reviews": 89,
+    "amenities": ["Onsen", "Kaiseki Dinner", "WiFi", "Garden View", "Yukata Provided", "Tea Ceremony"],
+    "description": "Experience the art of Japanese hospitality in this modern ryokan overlooking the Hozu River. Traditional kaiseki cuisine, private onsen baths, and the famous bamboo grove just outside your door.",
+    "highlights": ["Private onsen bath", "Multi-course kaiseki dinner", "Views of bamboo grove", "Traditional tea ceremony"],
+    "host": {
+      "name": "Hoshinoya Arashiyama",
+      "image": "https://picsum.photos/seed/host-hoshinoya/200/200",
+      "since": "2012",
+      "responseRate": "100%"
+    },
+    "type": "hotel",
+    "featured": false,
+    "viewers": 3
+  },
+  {
+    "id": "list-012",
+    "title": "Gothic Quarter Artist Loft",
+    "location": "Gothic Quarter, Barcelona",
+    "destinationId": "dest-005",
+    "image": "https://picsum.photos/seed/barcelona-loft/800/600",
+    "images": [
+      "https://picsum.photos/seed/barcelona-loft/800/600",
+      "https://picsum.photos/seed/barcelona-loft-living/800/600",
+      "https://picsum.photos/seed/barcelona-loft-bed/800/600",
+      "https://picsum.photos/seed/barcelona-loft-kitchen/800/600",
+      "https://picsum.photos/seed/barcelona-gothic/800/600"
+    ],
+    "price": 125,
+    "originalPrice": 155,
+    "rating": 4.5,
+    "reviews": 387,
+    "amenities": ["WiFi", "Air Conditioning", "Kitchen", "Washer", "City View"],
+    "description": "Bohemian charm in a converted artist's studio, tucked away on a quiet plaza in the heart of the Gothic Quarter. Exposed brick, soaring ceilings, and authentic Barcelona character.",
+    "highlights": ["14th-century building", "Quiet interior plaza", "Walking distance to everything", "Local market nearby"],
+    "host": {
+      "name": "Lucia Fernandez",
+      "image": "https://picsum.photos/seed/host-lucia/200/200",
+      "since": "2017",
+      "responseRate": "91%"
+    },
+    "type": "apartment",
+    "featured": false,
+    "viewers": 8
+  },
+  {
+    "id": "list-013",
+    "title": "Beach Bungalow with Private Garden",
+    "location": "South Ari Atoll, Maldives",
+    "destinationId": "dest-004",
+    "image": "https://picsum.photos/seed/maldives-beach/800/600",
+    "images": [
+      "https://picsum.photos/seed/maldives-beach/800/600",
+      "https://picsum.photos/seed/maldives-garden/800/600",
+      "https://picsum.photos/seed/maldives-beach-room/800/600",
+      "https://picsum.photos/seed/maldives-outdoor/800/600",
+      "https://picsum.photos/seed/maldives-sunset-beach/800/600"
+    ],
+    "price": 850,
+    "originalPrice": 980,
+    "rating": 4.8,
+    "reviews": 156,
+    "amenities": ["Beach Access", "Private Garden", "WiFi", "Half Board", "Spa Credits", "Diving Center"],
+    "description": "Steps from pristine white sand, this thatched beach bungalow offers barefoot luxury with a tropical garden and outdoor rain shower. Perfect for those who prefer land under their feet while still enjoying Maldivian paradise.",
+    "highlights": ["Private beach access", "Outdoor rain shower", "Tropical garden", "Whale shark excursions"],
+    "host": {
+      "name": "Coral Bay Resort",
+      "image": "https://picsum.photos/seed/host-coral/200/200",
+      "since": "2016",
+      "responseRate": "98%"
+    },
+    "type": "hotel",
+    "featured": false,
+    "viewers": 10
+  },
+  {
+    "id": "list-014",
+    "title": "Desert View Suite in Palmeraie",
+    "location": "Palmeraie, Marrakech",
+    "destinationId": "dest-006",
+    "image": "https://picsum.photos/seed/marrakech-desert/800/600",
+    "images": [
+      "https://picsum.photos/seed/marrakech-desert/800/600",
+      "https://picsum.photos/seed/marrakech-suite/800/600",
+      "https://picsum.photos/seed/marrakech-pool-villa/800/600",
+      "https://picsum.photos/seed/marrakech-garden/800/600",
+      "https://picsum.photos/seed/marrakech-lounge/800/600"
+    ],
+    "price": 245,
+    "originalPrice": 295,
+    "rating": 4.7,
+    "reviews": 198,
+    "amenities": ["Pool", "Desert View", "WiFi", "Spa", "Half Board", "Airport Transfer", "Tennis Court"],
+    "description": "Escape the medina buzz to this tranquil palm grove retreat. Traditional Moroccan architecture meets contemporary comfort, with Atlas Mountain views and a sprawling pool surrounded by date palms.",
+    "highlights": ["Atlas Mountain views", "Palm grove setting", "Traditional hammam", "Camel trekking arranged"],
+    "host": {
+      "name": "Palais Namaskar",
+      "image": "https://picsum.photos/seed/host-palais/200/200",
+      "since": "2015",
+      "responseRate": "99%"
+    },
+    "type": "hotel",
+    "featured": false,
+    "viewers": 4
+  },
+  {
+    "id": "list-015",
+    "title": "Historic Villa on Ravello Heights",
+    "location": "Ravello, Amalfi Coast",
+    "destinationId": "dest-008",
+    "image": "https://picsum.photos/seed/ravello-villa/800/600",
+    "images": [
+      "https://picsum.photos/seed/ravello-villa/800/600",
+      "https://picsum.photos/seed/ravello-garden/800/600",
+      "https://picsum.photos/seed/ravello-bedroom/800/600",
+      "https://picsum.photos/seed/ravello-terrace/800/600",
+      "https://picsum.photos/seed/ravello-coast/800/600"
+    ],
+    "price": 365,
+    "originalPrice": 440,
+    "rating": 4.8,
+    "reviews": 112,
+    "amenities": ["Sea View", "Garden", "WiFi", "Kitchen", "Air Conditioning", "Free Parking", "Concierge"],
+    "description": "Perched in Ravello's gardens, where Wagner composed and Gore Vidal wrote, this historic villa offers unmatched tranquility. Terraced gardens lead down to panoramic coast views that have inspired artists for centuries.",
+    "highlights": ["Historic literary heritage", "Terraced Italian gardens", "Concert venue nearby", "Private lemon grove"],
+    "host": {
+      "name": "Francesca Romano",
+      "image": "https://picsum.photos/seed/host-francesca/200/200",
+      "since": "2011",
+      "responseRate": "93%"
+    },
+    "type": "villa",
+    "featured": false,
+    "viewers": 2
+  }
+]
