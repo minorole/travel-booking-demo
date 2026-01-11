@@ -26,9 +26,11 @@ export function DestinationCard({
     <Link
       href={`/search?destination=${id}`}
       className={cn(
-        "group relative block aspect-[4/5] overflow-hidden rounded-2xl",
+        "group relative block overflow-hidden rounded-2xl lg:rounded-3xl",
         "animate-slide-up opacity-0",
         `stagger-${Math.min(index + 1, 8)}`,
+        // Default aspect ratio, can be overridden by className
+        !className?.includes("min-h-") && "aspect-[4/5]",
         className
       )}
       style={{ animationFillMode: 'forwards' }}
